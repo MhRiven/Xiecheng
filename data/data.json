@@ -1,0 +1,19 @@
+{
+	"list":[
+	        {
+	        	"src":"./data/images/pic01.webp",
+	        	"title":"好货笔记本疯抢",
+	        	"price":"5999"
+	        },
+	        {
+	        	"src":"./data/images/pic02.webp",
+	        	"title":"好货笔记本疯抢",
+	        	"price":"5999"
+	        },
+	        {
+	        	"src":"./data/images/pic03.webp",
+	        	"title":"好货笔记本疯抢",
+	        	"price":"5999"
+	        }
+	        ]
+}
